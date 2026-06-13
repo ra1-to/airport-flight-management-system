@@ -1,0 +1,24 @@
+# Java / NetBeans build outputs
+build/
+dist/
+*.class
+*.jar
+
+# NetBeans private metadata
+nbproject/private/
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Local database/config backups
+*.sql.bak
+*.properties.bak
