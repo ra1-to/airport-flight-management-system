@@ -138,7 +138,3 @@ mvn clean javafx:run
 Anwar Nafidi  
 Big Data Engineering Student  
 ENSA Berrechid, Morocco
-
-## License
-
-This project is licensed under the MIT License.
